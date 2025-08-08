@@ -1,0 +1,6 @@
+C:\Users\tkbkr\source\repos\LinkedListSolution\ProblemDomain\bin\Debug\ProblemDomain.dll
+C:\Users\tkbkr\source\repos\LinkedListSolution\ProblemDomain\bin\Debug\ProblemDomain.pdb
+C:\Users\tkbkr\source\repos\LinkedListSolution\ProblemDomain\obj\Debug\ProblemDomain.csproj.AssemblyReference.cache
+C:\Users\tkbkr\source\repos\LinkedListSolution\ProblemDomain\obj\Debug\ProblemDomain.csproj.CoreCompileInputs.cache
+C:\Users\tkbkr\source\repos\LinkedListSolution\ProblemDomain\obj\Debug\ProblemDomain.dll
+C:\Users\tkbkr\source\repos\LinkedListSolution\ProblemDomain\obj\Debug\ProblemDomain.pdb
